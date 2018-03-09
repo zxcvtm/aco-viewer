@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./main.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n  <meta charset=\"UTF-8\">\n  <title>ACO MAP</title>\n  </head>\n  <body>\n    <div id=\"app\"></div>\n    <script src=\"/dist/7967b991ce4a402a25a9fb22c9b57d05.js\"></script>\n  </body>\n</html>\n"},"hash":"32d28ad29e314d0962959950873e9e99","cacheData":{}}
